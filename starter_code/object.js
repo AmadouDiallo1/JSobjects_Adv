@@ -65,11 +65,10 @@ var library =
               "year": 2009
             }
           ],
-            "Lady_Gaga":[
-            {
-              "album": "The Fame",
+            "Lady_Gaga":[{"album": "The Fame",
               "song": "Just Dance",
-              "year": 2006
+              "year": 2000
+              
             }
           ],
         },
